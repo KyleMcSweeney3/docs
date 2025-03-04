@@ -94,7 +94,8 @@
   },
   "logo": {
     "light": "/images/light.png",
-    "dark": "/logo/dark.svg"
+    "dark": "/images/light.png",
+    "text": "POWERBOARD DOCUMENTATION"
   },
   "navbar": {
     "links": [
