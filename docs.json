@@ -58,10 +58,16 @@
         "tab": "Product Overview",
         "groups": [
           {
-            "group": "What is PowerBoard"
+            "group": "What is PowerBoard",
+            "pages": [
+              "essentials/overview"
+            ]
           },
           {
-            "group": "Testing"
+            "group": "Testing",
+            "pages": [
+              "essentials/testingGuide"
+            ]
           }
         ]
       }
