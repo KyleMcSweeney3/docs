@@ -95,7 +95,6 @@
   "logo": {
     "light": "/images/light.png",
     "dark": "/images/light.png",
-    "href": "/",
     "text": "POWERBOARD DOCUMENTATION"
   },
   "navbar": {
