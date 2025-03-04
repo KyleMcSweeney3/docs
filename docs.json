@@ -53,6 +53,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Product Overview",
+        "groups": [
+          {
+            "group": "What is PowerBoard",
+          },
+          {
+            "group": "Testing",
+          }
+        ]
       }
     ],
     "global": {
