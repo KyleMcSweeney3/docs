@@ -36,6 +36,23 @@
         ]
       },
       {
+        "tab": "Product Overview",
+        "groups": [
+          {
+            "group": "What is PowerBoard",
+            "pages": [
+              "essentials/overview"
+            ]
+          },
+          {
+            "group": "Testing",
+            "pages": [
+              "essentials/testingGuide"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API Reference",
         "groups": [
           {
@@ -50,23 +67,6 @@
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Product Overview",
-        "groups": [
-          {
-            "group": "What is PowerBoard",
-            "pages": [
-              "essentials/overview"
-            ]
-          },
-          {
-            "group": "Testing",
-            "pages": [
-              "essentials/testingGuide"
             ]
           }
         ]
